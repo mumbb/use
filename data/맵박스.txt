@@ -1,0 +1,1 @@
+https://api.mapbox.com/styles/v1/kikikim/ckizgwa6j0bl819vn86aewv17?access_token=pk.eyJ1Ijoia2lraWtpbSIsImEiOiJja2l6aDY4NHkwMTJoMndxamtjdWJxM29yIn0.Cxtvdnj1zBkS8Z7SOdtNMQ
