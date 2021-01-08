@@ -1,0 +1,13 @@
+﻿<?xml version='1.0' encoding='utf-8' ?>
+
+<mapsource inline='true' version='8.1'>
+<connection class='OpenStreetMap'
+server='http://xdworld.vworld.kr'
+port='8080'
+url-format = '/2d/Base/service/{Z}/{X}/{Y}.png'
+max-scale-level = '19.0' />
+<layers>
+<layer display-name = 'Base' name = 'base' request-string='/'
+show-ui='false' type='features' />
+</layers>
+</mapsource>
